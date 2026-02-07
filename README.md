@@ -1,12 +1,40 @@
-# Welcome to My Professional Repository 
+# Hi, I'm Kalvin!
 
-## About Me
+## 👨‍💻 About Me
+I am a passionate software developer with a strong interest in creating innovative solutions. My goal is to deliver high-quality software that meets user needs and exceeds expectations.
 
-Aspiring professional with a strong background in web development, network engineering, and IT services. Below is a brief overview of my skills and services offered:
+## 🛠️ Skills
+- **Languages:**  
+  - JavaScript (ES6+)  
+  - Python  
+  - Java  
+  - C++  
+- **Frameworks & Libraries:**  
+  - React.js  
+  - Node.js  
+  - Flask  
+  - Express.js  
+- **Databases:**  
+  - MySQL  
+  - MongoDB  
+- **Tools & Platforms:**  
+  - Git  
+  - Docker  
+  - AWS  
+  - Visual Studio Code  
+- **Methodologies:**  
+  - Agile  
+  - Test-Driven Development (TDD)  
 
-- ![Web Development](https://img.icons8.com/ios-filled/50/000000/web.png) **Web Development**: Proficient in HTML, CSS, JavaScript, and various frameworks. 
-- ![Network Engineering](https://img.icons8.com/ios-filled/50/000000/network.png) **Network Engineering**: Experience in managing and configuring network systems and protocols.
-- ![Computer Repair](https://img.icons8.com/ios-filled/50/000000/hardware.png) **Computer Repair**: Skilled in diagnosing and fixing computer issues, both hardware and software.
-- ![CCTV Installation](https://img.icons8.com/ios-filled/50/000000/security-camera.png) **CCTV Installation**: Experienced in the setup and maintenance of security camera systems.
+## 🌱 Currently Learning
+- **Machine Learning**
+- **GraphQL**
 
-Feel free to reach out for collaboration or inquiries!
+## 📫 Get in Touch
+- Email: kalvin@example.com  
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/kalvin12)  
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kalvin-12&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)  
+
+Thank you for visiting my profile!
