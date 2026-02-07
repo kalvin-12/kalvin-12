@@ -1,26 +1,12 @@
-Hi 👋 My name is Kalvin
-=======================
+# Welcome to My Professional Repository 
 
-Web Developer And Computer Repair
----------------------------------
+## About Me
 
-* 🌍  I'm based in Indonesia, Jawa Timur
-* ✉️  You can contact me at [kalvinhidayatullah12@gmail.com](mailto:kalvinhidayatullah12@gmail.com)
+Aspiring professional with a strong background in web development, network engineering, and IT services. Below is a brief overview of my skills and services offered:
 
-### Skills
+- ![Web Development](https://img.icons8.com/ios-filled/50/000000/web.png) **Web Development**: Proficient in HTML, CSS, JavaScript, and various frameworks. 
+- ![Network Engineering](https://img.icons8.com/ios-filled/50/000000/network.png) **Network Engineering**: Experience in managing and configuring network systems and protocols.
+- ![Computer Repair](https://img.icons8.com/ios-filled/50/000000/hardware.png) **Computer Repair**: Skilled in diagnosing and fixing computer issues, both hardware and software.
+- ![CCTV Installation](https://img.icons8.com/ios-filled/50/000000/security-camera.png) **CCTV Installation**: Experienced in the setup and maintenance of security camera systems.
 
-
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-</p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/kalvin-12" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/kalvin-12"><img src="https://github-readme-stats.vercel.app/api?username=kalvin-12&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ef4444&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kalvin-12's GitHub stats" /></a>
+Feel free to reach out for collaboration or inquiries!
