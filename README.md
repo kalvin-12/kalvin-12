@@ -5,15 +5,12 @@ I am a passionate software developer with a strong interest in creating innovati
 
 ## 🛠️ Skills
 - **Languages:**  
-  - JavaScript (ES6+)  
   - Python  
-  - Java  
   - C++  
 - **Frameworks & Libraries:**  
   - React.js  
   - Node.js  
-  - Flask  
-  - Express.js  
+  - Laravel
 - **Databases:**  
   - MySQL  
   - MongoDB  
