@@ -9,11 +9,11 @@ Saya adalah seorang **Web Developer** yang passionate dan **Network Engineer** b
 ## 💻 **Keahlian Web Development**
 
 ### 🎨 Frontend Development
-- **Laravel** - Framework PHP yang powerful untuk backend
 - **GSAP (GreenSock Animation Platform)** - Animasi web yang smooth dan stunning
 - **Bootstrap** - Framework CSS untuk responsive design yang elegan
 
 ### 🔧 Backend & Database
+- **Laravel** - Framework PHP yang powerful untuk backend
 - **PHP** - Server-side scripting yang reliable
 - **Python** - Multi-purpose programming language
 - **MySQL** - Database management yang solid dan scalable
