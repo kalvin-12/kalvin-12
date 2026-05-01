@@ -9,7 +9,6 @@ Saya adalah seorang **Web Developer** yang passionate dan **Network Engineer** b
 ## 💻 **Keahlian Web Development**
 
 ### 🎨 Frontend Development
-- **GSAP (GreenSock Animation Platform)** - Animasi web yang smooth dan stunning
 - **Bootstrap** - Framework CSS untuk responsive design yang elegan
 
 ### 🔧 Backend & Database
